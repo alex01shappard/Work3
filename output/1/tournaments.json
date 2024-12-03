@@ -1,0 +1,932 @@
+[
+    {
+        "type": "circular",
+        "title": "Кубок мира 1975",
+        "city": "Ереван",
+        "rounds": 15,
+        "time_control": "103 мин",
+        "min_rating": 2210,
+        "rating": 4.6,
+        "views": 58938
+    },
+    {
+        "type": "Olympic",
+        "title": "Sinquefield Cup 2014",
+        "city": "Картахена",
+        "rounds": 12,
+        "time_control": "18 мин",
+        "min_rating": 2299,
+        "rating": 4.7,
+        "views": 45332
+    },
+    {
+        "type": "circular",
+        "title": "Чемпионат мира 1981",
+        "city": "Луго",
+        "rounds": 13,
+        "time_control": "145 мин",
+        "min_rating": 2467,
+        "rating": 4.1,
+        "views": 65758
+    },
+    {
+        "type": "Swiss",
+        "title": "Тилбург 1954",
+        "city": "Астана",
+        "rounds": 15,
+        "time_control": "104 мин",
+        "min_rating": 2622,
+        "rating": 2.2,
+        "views": 22397
+    },
+    {
+        "type": "circular",
+        "title": "Линарес 2011",
+        "city": "Трухильо",
+        "rounds": 6,
+        "time_control": "137 мин",
+        "min_rating": 2533,
+        "rating": 0.6,
+        "views": 83240
+    },
+    {
+        "type": "circular",
+        "title": "Sinquefield Cup 1958",
+        "city": "Баку",
+        "rounds": 10,
+        "time_control": "69 мин",
+        "min_rating": 2397,
+        "rating": 3.5,
+        "views": 84999
+    },
+    {
+        "type": "Swiss",
+        "title": "Шамкович 1971",
+        "city": "Касерес",
+        "rounds": 15,
+        "time_control": "56 мин",
+        "min_rating": 2620,
+        "rating": 3.0,
+        "views": 1067
+    },
+    {
+        "type": "Swiss",
+        "title": "Политика 1956",
+        "city": "Санхенхо",
+        "rounds": 12,
+        "time_control": "118 мин",
+        "min_rating": 2591,
+        "rating": 4.5,
+        "views": 23729
+    },
+    {
+        "type": "Olympic",
+        "title": "Сент-Луис 2023",
+        "city": "Москва",
+        "rounds": 9,
+        "time_control": "35 мин",
+        "min_rating": 2552,
+        "rating": 2.6,
+        "views": 20534
+    },
+    {
+        "type": "Swiss",
+        "title": "Мемориал Таля 1973",
+        "city": "Аликанте",
+        "rounds": 11,
+        "time_control": "172 мин",
+        "min_rating": 2289,
+        "rating": 2.7,
+        "views": 5511
+    },
+    {
+        "type": "Swiss",
+        "title": "Шамкович 1976",
+        "city": "Алма-Ата",
+        "rounds": 13,
+        "time_control": "50 мин",
+        "min_rating": 2402,
+        "rating": 1.1,
+        "views": 75800
+    },
+    {
+        "type": "Olympic",
+        "title": "Хогевен 1991",
+        "city": "Баку",
+        "rounds": 11,
+        "time_control": "131 мин",
+        "min_rating": 2209,
+        "rating": 0.4,
+        "views": 53200
+    },
+    {
+        "type": "Swiss",
+        "title": "Мемориал Таля 2001",
+        "city": "Таллин",
+        "rounds": 11,
+        "time_control": "57 мин",
+        "min_rating": 2387,
+        "rating": 4.8,
+        "views": 62936
+    },
+    {
+        "type": "Olympic",
+        "title": "Гашиш 1998",
+        "city": "Сараево",
+        "rounds": 12,
+        "time_control": "83 мин",
+        "min_rating": 2524,
+        "rating": 4.5,
+        "views": 1836
+    },
+    {
+        "type": "Swiss",
+        "title": "Вена 2010",
+        "city": "Мурсия",
+        "rounds": 11,
+        "time_control": "146 мин",
+        "min_rating": 2640,
+        "rating": 3.7,
+        "views": 69494
+    },
+    {
+        "type": "Olympic",
+        "title": "Тилбург 1975",
+        "city": "Аликанте",
+        "rounds": 7,
+        "time_control": "57 мин",
+        "min_rating": 2333,
+        "rating": 2.4,
+        "views": 45921
+    },
+    {
+        "type": "Swiss",
+        "title": "Чемпионат мира 1969",
+        "city": "Семана",
+        "rounds": 15,
+        "time_control": "141 мин",
+        "min_rating": 2214,
+        "rating": 1.4,
+        "views": 68114
+    },
+    {
+        "type": "Swiss",
+        "title": "Тилбург 2007",
+        "city": "Махадаонда",
+        "rounds": 13,
+        "time_control": "58 мин",
+        "min_rating": 2213,
+        "rating": 0.1,
+        "views": 11055
+    },
+    {
+        "type": "Swiss",
+        "title": "Ставангер 1968",
+        "city": "Вальядолид",
+        "rounds": 15,
+        "time_control": "115 мин",
+        "min_rating": 2278,
+        "rating": 3.2,
+        "views": 67805
+    },
+    {
+        "type": "Swiss",
+        "title": "Мемориал Таля 1980",
+        "city": "Мартоса",
+        "rounds": 14,
+        "time_control": "114 мин",
+        "min_rating": 2550,
+        "rating": 2.3,
+        "views": 11335
+    },
+    {
+        "type": "circular",
+        "title": "Алушта 1975",
+        "city": "Авилес",
+        "rounds": 11,
+        "time_control": "119 мин",
+        "min_rating": 2456,
+        "rating": 2.0,
+        "views": 36181
+    },
+    {
+        "type": "circular",
+        "title": "Европа 1979",
+        "city": "Сьюдад-Реаль",
+        "rounds": 15,
+        "time_control": "42 мин",
+        "min_rating": 2349,
+        "rating": 2.1,
+        "views": 7255
+    },
+    {
+        "type": "Swiss",
+        "title": "Пойковский 1974",
+        "city": "Санкт-Петербург",
+        "rounds": 7,
+        "time_control": "109 мин",
+        "min_rating": 2256,
+        "rating": 1.3,
+        "views": 53726
+    },
+    {
+        "type": "Swiss",
+        "title": "Гашиш 2018",
+        "city": "Москва",
+        "rounds": 10,
+        "time_control": "22 мин",
+        "min_rating": 2550,
+        "rating": 1.8,
+        "views": 74652
+    },
+    {
+        "type": "Swiss",
+        "title": "Реджо-нель-Эмилия 1969",
+        "city": "Киев",
+        "rounds": 6,
+        "time_control": "128 мин",
+        "min_rating": 2291,
+        "rating": 3.8,
+        "views": 40416
+    },
+    {
+        "type": "Olympic",
+        "title": "Турнир претендентов 1974",
+        "city": "Осера",
+        "rounds": 11,
+        "time_control": "68 мин",
+        "min_rating": 2301,
+        "rating": 0.1,
+        "views": 44478
+    },
+    {
+        "type": "circular",
+        "title": "Алушта 2007",
+        "city": "Мартоса",
+        "rounds": 9,
+        "time_control": "24 мин",
+        "min_rating": 2463,
+        "rating": 1.1,
+        "views": 77852
+    },
+    {
+        "type": "Swiss",
+        "title": "Пальма 1996",
+        "city": "Кишинев",
+        "rounds": 12,
+        "time_control": "75 мин",
+        "min_rating": 2539,
+        "rating": 2.3,
+        "views": 75529
+    },
+    {
+        "type": "circular",
+        "title": "Дортмунд 2009",
+        "city": "Осера",
+        "rounds": 12,
+        "time_control": "176 мин",
+        "min_rating": 2321,
+        "rating": 0.4,
+        "views": 83594
+    },
+    {
+        "type": "Olympic",
+        "title": "Тилбург 1984",
+        "city": "Афины",
+        "rounds": 11,
+        "time_control": "21 мин",
+        "min_rating": 2296,
+        "rating": 1.5,
+        "views": 88198
+    },
+    {
+        "type": "circular",
+        "title": "Макартур 1959",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "rounds": 8,
+        "time_control": "156 мин",
+        "min_rating": 2477,
+        "rating": 1.0,
+        "views": 18662
+    },
+    {
+        "type": "Swiss",
+        "title": "Турнир претендентов 2011",
+        "city": "Кадакес",
+        "rounds": 11,
+        "time_control": "28 мин",
+        "min_rating": 2647,
+        "rating": 0.1,
+        "views": 20817
+    },
+    {
+        "type": "Swiss",
+        "title": "Европа 1978",
+        "city": "Будапешт",
+        "rounds": 14,
+        "time_control": "115 мин",
+        "min_rating": 2226,
+        "rating": 0.9,
+        "views": 89496
+    },
+    {
+        "type": "Swiss",
+        "title": "Тилбург 2013",
+        "city": "Санхенхо",
+        "rounds": 13,
+        "time_control": "118 мин",
+        "min_rating": 2439,
+        "rating": 1.2,
+        "views": 30510
+    },
+    {
+        "type": "circular",
+        "title": "Лондон 1960",
+        "city": "Картахена",
+        "rounds": 15,
+        "time_control": "43 мин",
+        "min_rating": 2505,
+        "rating": 0.1,
+        "views": 59741
+    },
+    {
+        "type": "circular",
+        "title": "Лондон 1961",
+        "city": "Тирана",
+        "rounds": 14,
+        "time_control": "153 мин",
+        "min_rating": 2636,
+        "rating": 2.8,
+        "views": 74990
+    },
+    {
+        "type": "Olympic",
+        "title": "Гран-при ФИДЕ 1977",
+        "city": "Москва",
+        "rounds": 15,
+        "time_control": "172 мин",
+        "min_rating": 2358,
+        "rating": 0.6,
+        "views": 12038
+    },
+    {
+        "type": "Olympic",
+        "title": "Хогевен 2015",
+        "city": "Алма-Ата",
+        "rounds": 11,
+        "time_control": "155 мин",
+        "min_rating": 2549,
+        "rating": 4.7,
+        "views": 74444
+    },
+    {
+        "type": "Swiss",
+        "title": "Реджо-нель-Эмилия 2007",
+        "city": "Подгорица",
+        "rounds": 8,
+        "time_control": "39 мин",
+        "min_rating": 2572,
+        "rating": 4.3,
+        "views": 76227
+    },
+    {
+        "type": "circular",
+        "title": "Биль 1971",
+        "city": "Санкт-Петербург",
+        "rounds": 6,
+        "time_control": "94 мин",
+        "min_rating": 2455,
+        "rating": 3.4,
+        "views": 923
+    },
+    {
+        "type": "Olympic",
+        "title": "Биль 1976",
+        "city": "Куэнка",
+        "rounds": 8,
+        "time_control": "33 мин",
+        "min_rating": 2570,
+        "rating": 2.7,
+        "views": 38627
+    },
+    {
+        "type": "Olympic",
+        "title": "Вена 1978",
+        "city": "Семана",
+        "rounds": 15,
+        "time_control": "52 мин",
+        "min_rating": 2501,
+        "rating": 0.8,
+        "views": 67109
+    },
+    {
+        "type": "Swiss",
+        "title": "Аэрофлот Опен 2012",
+        "city": "Пласенсия",
+        "rounds": 9,
+        "time_control": "104 мин",
+        "min_rating": 2359,
+        "rating": 3.2,
+        "views": 47884
+    },
+    {
+        "type": "Swiss",
+        "title": "Сент-Луис 2008",
+        "city": "Мартоса",
+        "rounds": 10,
+        "time_control": "147 мин",
+        "min_rating": 2493,
+        "rating": 2.0,
+        "views": 88196
+    },
+    {
+        "type": "Olympic",
+        "title": "Лондон 1972",
+        "city": "Авилес",
+        "rounds": 8,
+        "time_control": "127 мин",
+        "min_rating": 2462,
+        "rating": 4.0,
+        "views": 47753
+    },
+    {
+        "type": "circular",
+        "title": "Балтийская цепь 1982",
+        "city": "Вроцлав",
+        "rounds": 13,
+        "time_control": "35 мин",
+        "min_rating": 2509,
+        "rating": 2.3,
+        "views": 93190
+    },
+    {
+        "type": "Olympic",
+        "title": "Биль 1981",
+        "city": "Луарка",
+        "rounds": 11,
+        "time_control": "142 мин",
+        "min_rating": 2486,
+        "rating": 3.0,
+        "views": 95375
+    },
+    {
+        "type": "Olympic",
+        "title": "Гашиш 1996",
+        "city": "Астана",
+        "rounds": 15,
+        "time_control": "23 мин",
+        "min_rating": 2514,
+        "rating": 4.6,
+        "views": 44620
+    },
+    {
+        "type": "Swiss",
+        "title": "Турнир претендентов 1950",
+        "city": "Рига",
+        "rounds": 6,
+        "time_control": "122 мин",
+        "min_rating": 2271,
+        "rating": 4.9,
+        "views": 34487
+    },
+    {
+        "type": "Olympic",
+        "title": "Пойковский 1980",
+        "city": "Бильбао",
+        "rounds": 7,
+        "time_control": "156 мин",
+        "min_rating": 2323,
+        "rating": 4.8,
+        "views": 74891
+    },
+    {
+        "type": "circular",
+        "title": "Вейк-ан-Зее 1977",
+        "city": "Тбилиси",
+        "rounds": 9,
+        "time_control": "71 мин",
+        "min_rating": 2520,
+        "rating": 2.4,
+        "views": 88070
+    },
+    {
+        "type": "circular",
+        "title": "Гран-при ФИДЕ 2011",
+        "city": "Гранада",
+        "rounds": 10,
+        "time_control": "30 мин",
+        "min_rating": 2446,
+        "rating": 1.3,
+        "views": 49570
+    },
+    {
+        "type": "Swiss",
+        "title": "Биль 1983",
+        "city": "Вильнюс",
+        "rounds": 7,
+        "time_control": "135 мин",
+        "min_rating": 2365,
+        "rating": 1.5,
+        "views": 7417
+    },
+    {
+        "type": "Olympic",
+        "title": "Гран-при ФИДЕ 1999",
+        "city": "Подгорица",
+        "rounds": 9,
+        "time_control": "41 мин",
+        "min_rating": 2272,
+        "rating": 1.4,
+        "views": 59244
+    },
+    {
+        "type": "Swiss",
+        "title": "Тилбург 2014",
+        "city": "Монсон",
+        "rounds": 14,
+        "time_control": "87 мин",
+        "min_rating": 2395,
+        "rating": 0.4,
+        "views": 98600
+    },
+    {
+        "type": "Olympic",
+        "title": "Вейк-ан-Зее 1968",
+        "city": "Москва",
+        "rounds": 9,
+        "time_control": "122 мин",
+        "min_rating": 2520,
+        "rating": 0.1,
+        "views": 60968
+    },
+    {
+        "type": "Olympic",
+        "title": "Хогевен 1979",
+        "city": "Москва",
+        "rounds": 13,
+        "time_control": "35 мин",
+        "min_rating": 2217,
+        "rating": 3.4,
+        "views": 19121
+    },
+    {
+        "type": "circular",
+        "title": "Турнир претендентов 2004",
+        "city": "Вильнюс",
+        "rounds": 8,
+        "time_control": "129 мин",
+        "min_rating": 2465,
+        "rating": 4.7,
+        "views": 62643
+    },
+    {
+        "type": "Swiss",
+        "title": "Тилбург 1977",
+        "city": "Сория",
+        "rounds": 13,
+        "time_control": "143 мин",
+        "min_rating": 2219,
+        "rating": 4.7,
+        "views": 73411
+    },
+    {
+        "type": "circular",
+        "title": "Европа 2005",
+        "city": "Таллин",
+        "rounds": 10,
+        "time_control": "110 мин",
+        "min_rating": 2452,
+        "rating": 0.2,
+        "views": 24674
+    },
+    {
+        "type": "circular",
+        "title": "Макартур 2021",
+        "city": "Пласенсия",
+        "rounds": 11,
+        "time_control": "92 мин",
+        "min_rating": 2441,
+        "rating": 1.0,
+        "views": 96644
+    },
+    {
+        "type": "Swiss",
+        "title": "Шамкович 2017",
+        "city": "Таллин",
+        "rounds": 8,
+        "time_control": "37 мин",
+        "min_rating": 2395,
+        "rating": 1.6,
+        "views": 41777
+    },
+    {
+        "type": "Olympic",
+        "title": "Лондон 1958",
+        "city": "Тарраса",
+        "rounds": 9,
+        "time_control": "136 мин",
+        "min_rating": 2319,
+        "rating": 0.5,
+        "views": 11747
+    },
+    {
+        "type": "Swiss",
+        "title": "Макартур 2001",
+        "city": "Кордова",
+        "rounds": 13,
+        "time_control": "146 мин",
+        "min_rating": 2632,
+        "rating": 2.0,
+        "views": 97124
+    },
+    {
+        "type": "Swiss",
+        "title": "Дортмунд 1988",
+        "city": "Валенсия",
+        "rounds": 9,
+        "time_control": "90 мин",
+        "min_rating": 2255,
+        "rating": 0.8,
+        "views": 2141
+    },
+    {
+        "type": "Swiss",
+        "title": "Биль 1983",
+        "city": "Подгорица",
+        "rounds": 15,
+        "time_control": "100 мин",
+        "min_rating": 2643,
+        "rating": 3.8,
+        "views": 42285
+    },
+    {
+        "type": "Swiss",
+        "title": "Вейк-ан-Зее 2002",
+        "city": "Вальядолид",
+        "rounds": 11,
+        "time_control": "81 мин",
+        "min_rating": 2555,
+        "rating": 4.6,
+        "views": 86724
+    },
+    {
+        "type": "Swiss",
+        "title": "Аэрофлот Опен 2022",
+        "city": "Астана",
+        "rounds": 6,
+        "time_control": "90 мин",
+        "min_rating": 2545,
+        "rating": 4.9,
+        "views": 1041
+    },
+    {
+        "type": "circular",
+        "title": "Биль 1962",
+        "city": "Ла-Корунья",
+        "rounds": 9,
+        "time_control": "92 мин",
+        "min_rating": 2357,
+        "rating": 0.6,
+        "views": 43403
+    },
+    {
+        "type": "Swiss",
+        "title": "Кубок мира 1975",
+        "city": "Мадрид",
+        "rounds": 15,
+        "time_control": "31 мин",
+        "min_rating": 2373,
+        "rating": 1.3,
+        "views": 13251
+    },
+    {
+        "type": "circular",
+        "title": "Линарес 1976",
+        "city": "Махадаонда",
+        "rounds": 10,
+        "time_control": "49 мин",
+        "min_rating": 2490,
+        "rating": 1.7,
+        "views": 57088
+    },
+    {
+        "type": "Olympic",
+        "title": "Лондон 1969",
+        "city": "Бильбао",
+        "rounds": 9,
+        "time_control": "34 мин",
+        "min_rating": 2520,
+        "rating": 0.3,
+        "views": 59572
+    },
+    {
+        "type": "Olympic",
+        "title": "Вена 2015",
+        "city": "Тарраса",
+        "rounds": 14,
+        "time_control": "131 мин",
+        "min_rating": 2265,
+        "rating": 0.9,
+        "views": 60993
+    },
+    {
+        "type": "circular",
+        "title": "Цюрих 2017",
+        "city": "Севилья",
+        "rounds": 13,
+        "time_control": "166 мин",
+        "min_rating": 2572,
+        "rating": 0.1,
+        "views": 90709
+    },
+    {
+        "type": "Olympic",
+        "title": "Балтийская цепь 2007",
+        "city": "Лас-Росас",
+        "rounds": 8,
+        "time_control": "47 мин",
+        "min_rating": 2323,
+        "rating": 2.5,
+        "views": 63013
+    },
+    {
+        "type": "Olympic",
+        "title": "Ставангер 1950",
+        "city": "Пласенсия",
+        "rounds": 9,
+        "time_control": "118 мин",
+        "min_rating": 2616,
+        "rating": 5.0,
+        "views": 35600
+    },
+    {
+        "type": "Swiss",
+        "title": "Ставангер 1976",
+        "city": "Луго",
+        "rounds": 10,
+        "time_control": "167 мин",
+        "min_rating": 2570,
+        "rating": 2.6,
+        "views": 78546
+    },
+    {
+        "type": "Swiss",
+        "title": "Цюрих 1969",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "rounds": 14,
+        "time_control": "141 мин",
+        "min_rating": 2631,
+        "rating": 1.8,
+        "views": 45289
+    },
+    {
+        "type": "circular",
+        "title": "Хогевен 1967",
+        "city": "Душанбе",
+        "rounds": 10,
+        "time_control": "128 мин",
+        "min_rating": 2475,
+        "rating": 3.2,
+        "views": 6434
+    },
+    {
+        "type": "Olympic",
+        "title": "Мемориал Таля 1965",
+        "city": "Тарраса",
+        "rounds": 11,
+        "time_control": "20 мин",
+        "min_rating": 2606,
+        "rating": 0.2,
+        "views": 47056
+    },
+    {
+        "type": "Swiss",
+        "title": "Дортмунд 1968",
+        "city": "Бишкек",
+        "rounds": 9,
+        "time_control": "153 мин",
+        "min_rating": 2340,
+        "rating": 1.5,
+        "views": 58438
+    },
+    {
+        "type": "circular",
+        "title": "Sinquefield Cup 1994",
+        "city": "Краков",
+        "rounds": 6,
+        "time_control": "165 мин",
+        "min_rating": 2598,
+        "rating": 0.9,
+        "views": 53337
+    },
+    {
+        "type": "circular",
+        "title": "Лондон 2013",
+        "city": "Камбадос",
+        "rounds": 12,
+        "time_control": "177 мин",
+        "min_rating": 2634,
+        "rating": 0.9,
+        "views": 77698
+    },
+    {
+        "type": "Swiss",
+        "title": "Гашиш 1959",
+        "city": "Рига",
+        "rounds": 6,
+        "time_control": "48 мин",
+        "min_rating": 2584,
+        "rating": 2.8,
+        "views": 19577
+    },
+    {
+        "type": "Swiss",
+        "title": "Вейк-ан-Зее 1955",
+        "city": "Алькала-де-Энарес",
+        "rounds": 11,
+        "time_control": "53 мин",
+        "min_rating": 2263,
+        "rating": 0.7,
+        "views": 78868
+    },
+    {
+        "type": "circular",
+        "title": "Хогевен 1994",
+        "city": "Луго",
+        "rounds": 14,
+        "time_control": "89 мин",
+        "min_rating": 2541,
+        "rating": 2.3,
+        "views": 79395
+    },
+    {
+        "type": "Olympic",
+        "title": "Вена 1999",
+        "city": "Тудела",
+        "rounds": 8,
+        "time_control": "48 мин",
+        "min_rating": 2476,
+        "rating": 2.8,
+        "views": 99590
+    },
+    {
+        "type": "Swiss",
+        "title": "Сент-Луис 2000",
+        "city": "Пласенсия",
+        "rounds": 10,
+        "time_control": "155 мин",
+        "min_rating": 2315,
+        "rating": 3.3,
+        "views": 34626
+    },
+    {
+        "type": "Swiss",
+        "title": "Пальма 1981",
+        "city": "Махадаонда",
+        "rounds": 9,
+        "time_control": "177 мин",
+        "min_rating": 2213,
+        "rating": 1.0,
+        "views": 65528
+    },
+    {
+        "type": "Olympic",
+        "title": "Линарес 1958",
+        "city": "Осера",
+        "rounds": 9,
+        "time_control": "32 мин",
+        "min_rating": 2585,
+        "rating": 3.5,
+        "views": 32163
+    },
+    {
+        "type": "circular",
+        "title": "Хогевен 1965",
+        "city": "Артейхо",
+        "rounds": 6,
+        "time_control": "147 мин",
+        "min_rating": 2244,
+        "rating": 0.8,
+        "views": 44659
+    },
+    {
+        "type": "circular",
+        "title": "Аэрофлот Опен 1985",
+        "city": "Малага",
+        "rounds": 6,
+        "time_control": "153 мин",
+        "min_rating": 2406,
+        "rating": 1.9,
+        "views": 96214
+    },
+    {
+        "type": "Swiss",
+        "title": "Аэрофлот Опен 2014",
+        "city": "Бланес",
+        "rounds": 6,
+        "time_control": "82 мин",
+        "min_rating": 2299,
+        "rating": 3.5,
+        "views": 8020
+    }
+]
