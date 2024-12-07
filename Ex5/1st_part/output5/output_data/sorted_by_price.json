@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Аккумулятор Delta GX 12-24",
+        "price": 8250,
+        "capacity": "24 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "166х175х125 мм",
+        "weight": "8,3 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-33",
+        "price": 9660,
+        "capacity": "33 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "195х130х155 мм",
+        "weight": "11 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-40",
+        "price": 11690,
+        "capacity": "40 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "197х165х170 мм",
+        "weight": "14,7 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-65",
+        "price": 19100,
+        "capacity": "65 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "350х167х179 мм",
+        "weight": "23,4 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-75",
+        "price": 20300,
+        "capacity": "75 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "258х166х206 мм",
+        "weight": "23,5 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-100",
+        "price": 25000,
+        "capacity": "100 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "330х171х215 мм",
+        "weight": "32 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-120",
+        "price": 31700,
+        "capacity": "120 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "410х176х224 мм",
+        "weight": "38 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-150",
+        "price": 37600,
+        "capacity": "150 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "482х170х240 мм",
+        "weight": "47 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-200",
+        "price": 47790,
+        "capacity": "200 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "522х238х218 мм",
+        "weight": "65 кг",
+        "material": "ABS"
+    },
+    {
+        "name": "Аккумулятор Delta GX 12-230",
+        "price": 60990,
+        "capacity": "230 А*ч",
+        "lifetime": "15 лет",
+        "dimensions": "520х269х203 мм",
+        "weight": "72,6 кг",
+        "material": "ABS"
+    }
+]
